@@ -1,0 +1,200 @@
+Uri: https://fonts.googleapis.com/css?family=Muli:300,400,600,700
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:400,500,600,700
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFkQl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyDRemITiP7JRWpZwLhVt-T2x5MeUFE2KWs
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://retrina.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/colors/golden.css
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\colors\golden.css
+Content Type: text/css
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/css/animate.min.css
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/css/bootstrap-icons.css
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\css\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/css/bootstrap.css
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/css/jquery.mCustomScrollbar.css
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\css\jquery.mCustomScrollbar.css
+Content Type: text/css
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/css/magnific-popup.css
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/css/owl.carousel.min.css
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/css/style.css
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\css\style.css
+Content Type: text/css
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/fonts/bootstrap-icons.woff?a97b3594ad416896e15824f6787370e0
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/blog-img-03.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\blog-img-03.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/client-01.png
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\client-01.png
+Content Type: image/png
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/client-02.png
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\client-02.png
+Content Type: image/png
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/client-03.png
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\client-03.png
+Content Type: image/png
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/favicon.png
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/responsive-dark.png
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\responsive-dark.png
+Content Type: image/png
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/webdesigner/about-img.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\webdesigner\about-img.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/webdesigner/blog-item1.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\webdesigner\blog-item1.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/webdesigner/blog-item2.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\webdesigner\blog-item2.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/webdesigner/blog-item3.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\webdesigner\blog-item3.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/webdesigner/blog-item4.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\webdesigner\blog-item4.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/webdesigner/blog-single.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\webdesigner\blog-single.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/webdesigner/portfolio-item1.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\webdesigner\portfolio-item1.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/webdesigner/portfolio-item2.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\webdesigner\portfolio-item2.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/webdesigner/portfolio-item3.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\webdesigner\portfolio-item3.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/webdesigner/portfolio-item4.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\webdesigner\portfolio-item4.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/webdesigner/portfolio-item5.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\webdesigner\portfolio-item5.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/webdesigner/portfolio-item6.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\webdesigner\portfolio-item6.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/img/webdesigner/profile-img.jpg
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\img\webdesigner\profile-img.jpg
+Content Type: image/jpeg
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/js/arshia.js
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\js\arshia.js
+Content Type: application/javascript
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/js/bootstrap.js
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/js/isotope.pkgd.min.js
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/js/jquery-3.4.1.min.js
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\js\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/js/jquery.countTo.js
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\js\jquery.countTo.js
+Content Type: application/javascript
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/js/jquery.mCustomScrollbar.concat.min.js
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\js\jquery.mCustomScrollbar.concat.min.js
+Content Type: application/javascript
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/assets/js/owl.carousel.min.js
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/portfolio-01-dark.html
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\portfolio-01-dark.html
+Content Type: text/html
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/portfolio-03-dark.html
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\portfolio-03-dark.html
+Content Type: text/html
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/webdesigner-blog-singel-dark.html
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\webdesigner-blog-singel-dark.html
+Content Type: text/html
+
+Uri: https://retrina.com/demo/arshia/arshia-plus/webdesigner-dark.html
+File Name: C:\Users\BERTHE\Desktop\ahx\retrina.com\demo\arshia\arshia-plus\webdesigner-dark.html
+Content Type: text/html
+
