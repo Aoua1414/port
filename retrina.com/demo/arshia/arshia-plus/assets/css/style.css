@@ -2052,7 +2052,7 @@ textarea:-moz-placeholder {
 }
 /*------------------------- Dark -------------------------*/
 body.dark-arshia , .dark-arshia .ajax-page-content{
-  background-color: #232324;
+  background-color: #b1b1b4;
   color: #fff;
 }
 .dark-arshia .left-side , .dark-arshia #main>section , .dark-arshia .right-side{
